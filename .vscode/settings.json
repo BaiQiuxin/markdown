@@ -1,0 +1,14 @@
+{
+    // Markdown 配置
+
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "markdown-preview-enhanced.codeBlockTheme": "auto.css",
+    "markdown-preview-enhanced.chromePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "markdown-preview-enhanced.printBackground": true,
+    "markdown-pdf.executablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "markdown-pdf.styles": [
+        "E:\\VSCode\\markdown\\css settings\\markdown_2.css"
+    ],
+}
